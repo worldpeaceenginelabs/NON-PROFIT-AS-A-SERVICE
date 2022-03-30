@@ -26,6 +26,9 @@ https://github.com/worldpeaceenginelabs/PWA-SPA-LOGIN-MAINSCREEN-MENU-Starter-Ki
 
 # Capitalism, but upside down 
 You find a meaningful thing first, than you start a sustainable non-profit website/app/client/business around it, and then you doing a sh## load of money with doing good deeds. (because best product/service in town, for real, not by media propagation)
+
+# Transfer your for-profit business/business-idea to a non-profit business, crowdsourced by the Cloud Atlas crew (coming)
+Exaxtly as it says.
 <br><br><br>
 
 # What if every enterprise and every individual would turn to the non-profit model, focusing on the purpose, while having the same or even more profit?
