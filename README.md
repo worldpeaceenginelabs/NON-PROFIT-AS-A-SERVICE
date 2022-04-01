@@ -11,7 +11,7 @@ Start Your Profitable Non-Profit Business for doing good deeds while earning a l
 ## Classic (stable)
 https://github.com/worldpeaceenginelabs/PWA-JAMStack-Starter-Kit-with-Cesium
 
-## P2P (under development)
+## P2P (more adapters coming)
 https://github.com/worldpeaceenginelabs/TRUE-P2P-MISHMESH-P2P-PWA-JAMStack-Starter-Kit
 <br><br><br>
 
