@@ -12,7 +12,7 @@ Start Your Profitable Non-Profit Business for doing good deeds while earning a l
 https://github.com/worldpeaceenginelabs/PWA-JAMStack-Starter-Kit-with-Cesium
 
 ## P2P (more adapters coming)
-https://github.com/worldpeaceenginelabs/TRUE-P2P-MISHMESH-P2P-PWA-JAMStack-Starter-Kit
+https://github.com/worldpeaceenginelabs/P2P-PWA-JAMStack-Starter-Kit-with-Cesium
 <br><br><br>
 
 # WHY THE NON-COMMERCIAL LICENSE MODEL?
